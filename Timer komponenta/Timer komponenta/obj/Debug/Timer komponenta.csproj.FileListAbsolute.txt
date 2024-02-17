@@ -1,0 +1,10 @@
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.csproj.AssemblyReference.cache
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer_komponenta.Form1.resources
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer_komponenta.Properties.Resources.resources
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.csproj.GenerateResource.cache
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.csproj.CoreCompileInputs.cache
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\bin\Debug\Timer komponenta.exe.config
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\bin\Debug\Timer komponenta.exe
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\bin\Debug\Timer komponenta.pdb
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.exe
+C:\Users\Mautner\source\repos\Timer komponenta\Timer komponenta\obj\Debug\Timer komponenta.pdb
